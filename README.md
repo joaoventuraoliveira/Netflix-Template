@@ -1,5 +1,8 @@
-# Netflix-Template
-Tema semelhante ao Netflix com Javascript e CSS. Você pode ajudar contribuindo com mais recursos e melhorias.
+# Template baseado no Netflix
 
-## Video
-https://youtu.be/qBNOBIU5j0o
+O repositório original é:
+
+[Gui Ferreira / Netflix-Template](https://github.com/guiferreira/Netflix-Template)
+
+
+Este projeto é baseado em ![JavaScript](https://www.logolynx.com/images/logolynx/a2/a2aeafa9adbea9ebc3f6beff130f001b.png)= "50";}
